@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Ufrw1Q5Gpxu/sbJQWWFD9ezuktkynoBz6gwHDQNvXLY=",
+  "Source": "FinalEvidence",
+  "BasePath": "_content/FinalEvidence",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalEvidence\\wwwroot",
+      "Source": "FinalEvidence",
+      "ContentRoot": "E:\\CodeCollectionStore\\CodeCollection\\CSharpCodeCollectionStoreThree\\Evidence_Collection\\Evidence_Collection\\Module_09_Class_6_7\\FinalEvidence_9\\FinalEvidence\\wwwroot\\",
+      "BasePath": "_content/FinalEvidence",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
